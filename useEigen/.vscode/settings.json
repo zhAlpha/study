@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "dense": "cpp",
+        "iostream": "cpp",
+        "lu": "cpp",
+        "cholesky": "cpp"
+    }
+}
