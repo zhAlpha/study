@@ -1,0 +1,3 @@
+/home/zh/study/OpenCV_imageBasics/CMakeFiles/edit_cache.dir
+/home/zh/study/OpenCV_imageBasics/CMakeFiles/rebuild_cache.dir
+/home/zh/study/OpenCV_imageBasics/CMakeFiles/OpenCV_imageBasics.dir

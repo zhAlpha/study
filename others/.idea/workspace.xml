@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="others" targetName="others" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f25b09d8-b72b-4dd0-910f-1a672a48c11a" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/.idea/OpenCV_imageBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/OpenCV_imageBasics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OpenCV_imageBasics/ubuntu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/joinMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/color/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/color/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/color/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/color/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/color/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/depth/1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/depth/2.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/depth/3.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/depth/4.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/depth/5.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/joinMap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/joinMap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/map.pcd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../joinMap/pose.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/others.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T8kBWii3mtn1XTefyGyxt3HWKx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/some_git_repositories/GeneralConfig/JetBrainTheme" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="sql.code.style.group" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="others" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="others" TARGET_NAME="others" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="others" RUN_TARGET_NAME="others">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f25b09d8-b72b-4dd0-910f-1a672a48c11a" name="默认更改列表" comment="" />
+      <created>1572848974877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572848974877</updated>
+      <workItem from="1572848976322" duration="1794000" />
+      <workItem from="1573088249605" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
